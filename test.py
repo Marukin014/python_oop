@@ -16,3 +16,4 @@ studen2 = Studen("สมหญิง",49)
 
 studen1.showgrade()
 studen2.showgrade()
+studen2.showgrade()
